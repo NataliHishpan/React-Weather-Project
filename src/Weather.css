@@ -30,11 +30,11 @@
   list-style: none;
 }
 
-.Weather img {
+.Weather canvas {
   display: inline-block;
-  height: 64px;
-  width: 64px;
-  margin-top: unset;
+  height: 46px;
+  width: 46px;
+  margin-top: 7px;
   vertical-align: top;
   margin-left: 0;
   margin-right: 10px;
