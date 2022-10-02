@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://www.linkedin.com/in/natalia-hishpan-91333622a/"
             target="_blank"
+            rel="noreferrer"
           >
             Nataliia Hishpan
           </a>{" "}
@@ -19,6 +20,7 @@ export default function App() {
           <a
             href="https://github.com/NataliHishpan/React-Weather-Project.git"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourse on GitHub
           </a>
